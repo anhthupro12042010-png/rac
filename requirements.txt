@@ -2,7 +2,9 @@ streamlit
 numpy
 pillow
 opencv-python-headless
-tflite-runtime
+tensorflow-cpu
+
+
 
 
 
