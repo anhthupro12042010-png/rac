@@ -1,0 +1,5 @@
+0 Rác Thải Nhựa ( có thể tái chế )
+1 Rác Thải Giấy ( có thể tái chế )
+2 Rác Thải Hữu Cơ 
+3 Rác Thải Kim loại ( có thể tái chế )
+4 Các loại rác khác ( hại môi trường )
